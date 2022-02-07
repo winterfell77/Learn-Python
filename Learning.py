@@ -45,3 +45,7 @@ if character_name == "john":
 
 
 print(type(character_name))
+
+
+
+
